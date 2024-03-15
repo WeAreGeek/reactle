@@ -2,7 +2,7 @@
 
 This is an open-source option for building word guessing games! Made using React, Typescript, and Tailwind.
 
-[**Try out the demo!**](https://reactle.vercel.app/)
+Originally published by [**cwackerfuss**](https://github.com/cwackerfuss/)
 
 ## Build and run
 
